@@ -6,7 +6,7 @@
 
 
 ## Introduction
-the design made by **Lokanaka Studio** (https://www.figma.com/community/file/1106038596434269509) and converted into react native apps 
+the design made by **Lokanaka Studio** ( if you like their work you can contact via **hello.lokanaka@gmail.com**) https://www.figma.com/community/file/1106038596434269509) and converted into react native apps 
 
 ## Getting Started
 Follow these steps to set up and run the project locally:
