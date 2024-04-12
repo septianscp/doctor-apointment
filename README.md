@@ -2,8 +2,8 @@
 
 # Doctor Appointment App
 
-![Doctor Appointment App ](![image](https://github.com/septianscp/doctor-apointment/assets/16201111/5beac82e-f4d9-4cf7-adb7-86ff2ec8b5c4)
-)
+![image](https://github.com/septianscp/doctor-apointment/assets/16201111/d705a575-1ea5-4ef6-bd53-18af24b21af2)
+
 
 ## Introduction
 the design made by **Lokanaka Studio** (https://www.figma.com/community/file/1106038596434269509) and converted into react native apps 
