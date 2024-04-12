@@ -38,5 +38,6 @@ Follow these steps to set up and run the project locally:
     You can access it using android, iphone, expo go or web
 
 ## Technologies Used
-- **Frontend**:
   - React Native
+  - Expo
+  - NativeBase
