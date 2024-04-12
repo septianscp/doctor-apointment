@@ -21,10 +21,27 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.anonymous.doctorapointment"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": [
+      [
+        "expo-font",
+        {
+          "fonts": [
+            "./assets/fonts/Poppins/Poppins-Regular.ttf",
+            "./assets/fonts/Poppins/Poppins-light.ttf",
+            "./assets/fonts/Poppins/Poppins-LightItalic.ttf",
+            "./assets/fonts/Poppins/Poppins-Medium.ttf",
+            "./assets/fonts/Poppins/Poppins-MediumItalic.ttf",
+            "./assets/fonts/Poppins/Poppins-Bold.ttf",
+            "./assets/fonts/Poppins/Poppins-BoldItalic.ttf"
+          ]
+        }
+      ]
+    ]
   }
 }
