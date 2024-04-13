@@ -26,15 +26,12 @@ Follow these steps to set up and run the project locally:
     npm install
     ```
 
-4. **Set up environment variables**:
-    Create a `.env` file in the root directory and add necessary environment variables. You can use `.env.example` as a reference.
-
-5. **Run the application**:
+4. **Run the application**:
     ```bash
     npm start
     ```
 
-6. **Access the application**:
+5. **Access the application**:
     You can access it using android, iphone, expo go or web
 
 ## Technologies Used
